@@ -1,0 +1,7 @@
+# PROMJA Robots.txt
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin/*
+
+Sitemap: https://promja.com/sitemap.xml
